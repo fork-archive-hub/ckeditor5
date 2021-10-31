@@ -1,14 +1,6 @@
-CKEditor 5 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20CKEditor%205%20on%20GitHub&url=https%3A%2F%2Fgithub.com%2Fckeditor%2Fckeditor5)
-===================================
+# CKEditor 5 learning
 
-[![npm version](https://badge.fury.io/js/ckeditor5.svg)](https://www.npmjs.com/package/ckeditor5)
-
-[![Build Status](https://travis-ci.com/ckeditor/ckeditor5.svg?branch=master)](https://travis-ci.com/ckeditor/ckeditor5)
-[![Dependency Status](https://img.shields.io/david/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5)
-[![devDependency Status](https://img.shields.io/david/dev/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5?type=dev)
-
-[![Join newsletter](https://img.shields.io/badge/join-newsletter-00cc99.svg)](http://eepurl.com/c3zRPr)
-[![Follow twitter](https://img.shields.io/badge/follow-twitter-00cc99.svg)](https://twitter.com/ckeditor)
+> learning source code of ckeditor 5 v31
 
 A set of ready-to-use rich text editors created with a powerful framework. Made with real-time collaborative editing in mind.
 
@@ -16,22 +8,25 @@ A set of ready-to-use rich text editors created with a powerful framework. Made 
 
 ## Table of contents
 
-* [Quick start](#quick-start)
-   * [CKEditor 5 builds](#ckeditor-5-builds)
-   * [CKEditor 5 Framework](#ckeditor-5-framework)
-* [Documentation and FAQ](#documentation-and-faq)
-* [Contributing and project organization](#contributing-and-project-organization)
-   * [Ideas and discussions](#ideas-and-discussions)
-   * [Development](#development)
-   * [Reporting issues and feature requests](#reporting-issues-and-feature-requests)
-* [Releases](#releases)
-* [Packages](#packages)
-   * [Core libraries](#core-libraries)
-   * [Builds](#builds)
-   * [Features](#features)
-   * [Editors](#editors)
-   * [Themes](#themes)
-* [License](#license)
+- [CKEditor 5 learning](#ckeditor-5-learning)
+	- [Table of contents](#table-of-contents)
+	- [Quick start](#quick-start)
+		- [CKEditor 5 builds](#ckeditor-5-builds)
+			- [Example](#example)
+		- [CKEditor 5 Framework](#ckeditor-5-framework)
+	- [Documentation and FAQ](#documentation-and-faq)
+	- [Contributing and project organization](#contributing-and-project-organization)
+		- [Ideas and discussions](#ideas-and-discussions)
+		- [Development](#development)
+		- [Reporting issues and feature requests](#reporting-issues-and-feature-requests)
+	- [Releases](#releases)
+	- [Packages](#packages)
+		- [Core libraries](#core-libraries)
+		- [Builds](#builds)
+		- [Features](#features)
+		- [Editors](#editors)
+		- [Themes](#themes)
+	- [License](#license)
 
 ## Quick start
 
