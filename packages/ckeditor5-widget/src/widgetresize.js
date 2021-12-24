@@ -130,6 +130,7 @@ export default class WidgetResize extends Plugin {
 	}
 
 	/**
+	 * Use the `attachTo` method to create a resizer for the specified widget.
 	 * @param {module:widget/widgetresize~ResizerOptions} [options] Resizer options.
 	 * @returns {module:widget/widgetresize/resizer~Resizer}
 	 */

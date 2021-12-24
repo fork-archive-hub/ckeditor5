@@ -92,6 +92,7 @@ export default class ImageResizeHandles extends Plugin {
 
 			resizer = editor.plugins
 				.get( WidgetResize )
+				// 创建一个缩放Resizer，
 				.attachTo( {
 					unit: editor.config.get( 'image.resizeUnit' ),
 
